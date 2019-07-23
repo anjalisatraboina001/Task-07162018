@@ -17,8 +17,8 @@ public class HelloController
 	    public UserDetails userdetails()
 	    {
 	        UserDetails userDetails = new UserDetails();
-	        userDetails.setName("JCG");
-	        userDetails.setDepartment("Angular");
+	        userDetails.setName("Anjali");
+	        userDetails.setDepartment("DTS");
 	        
 	        return userDetails;
 	    }
